@@ -1,2 +1,2 @@
 var hi = "helloWorld";
-alert(cat);
+alert(hi);
